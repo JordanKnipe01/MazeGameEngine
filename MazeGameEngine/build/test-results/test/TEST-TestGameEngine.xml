@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGameEngine" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-29T00:18:36" hostname="DESKTOP-5VJISD2" time="0.024">
+  <properties/>
+  <testcase name="MoveRight()" classname="TestGameEngine" time="0.024"/>
+  <system-out><![CDATA[The size of map is 10 * 10
+[]
+There are 1 traps on the map 
+There are 5 Coins on the map 
+There are 9 apples on the map 
+Coins: 0 
+Stamina Left: 12
+0 0 0 1 1 0 0 0 0 1
+0 1 2 0 0 1 1 0 0 0
+0 0 0 0 0 1 0 2 0 0
+0 0 0 0 0 0 0 0 0 2
+0 0 0 0 0 0 0 3 0 0
+0 0 0 0 0 0 9 0 1 0
+0 0 0 0 0 0 0 0 0 0
+1 2 0 0 0 0 0 0 0 0
+0 0 0 0 0 2 0 0 0 0
+8 0 0 0 0 0 0 0 0 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
